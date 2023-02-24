@@ -1,0 +1,14 @@
+baseURL: https://example.com
+googleAnalytics: UA/G-123123-12
+languageCode: en-us
+enableEmoji: yes
+theme: avicenna
+title: YOUR_NAME
+paginate: 10
+markup:
+  tableOfContents:
+    endLevel: 3
+    ordered: no
+    startLevel: 1
+params:
+  name: YOUR_NAME
