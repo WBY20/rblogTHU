@@ -3,7 +3,8 @@ academia:
 - course:
     degree: Ph.D.
     institution: Tsinghua University
-    major: Control science and engineering - Bioinformatics
+    major: Control science and engineering
+    minor: Bioinformatics
     start_date: "2020"
 - course:
     degree: B.Sc.

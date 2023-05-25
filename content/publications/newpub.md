@@ -5,7 +5,7 @@ authors:
 - Pan Chen, Peng Zhang, Shao Li
 date: "2023-02-10"
 
-publication: "arXiv"
+publication: "arXiv preprint arXiv:2302.05450"
 
 links:
     pdf: https://arxiv.org/ftp/arxiv/papers/2302/2302.05450.pdf
